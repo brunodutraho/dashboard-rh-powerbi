@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/SDdm47k3/dashboard.png" width="100%" alt="Banner do Projeto">
+  <img src="https://i.ibb.co/SDdm47k3/dashboard.png" alt="Banner do Projeto" style="max-width:100%; height:250px; object-fit:cover; border-radius:8px;">
 </p>
 
 # 📊 Dashboard RH – Análise de Indicadores de Recursos Humanos
