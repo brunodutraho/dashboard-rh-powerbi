@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.postimg.cc/N0KZq0n7/print-dashboard-rh.png" alt="Banner do Projeto" style="max-width:100%; height:250px; object-fit:cover; border-radius:8px;">
-</p>
-
 # 📊 Dashboard RH – Análise de Indicadores de Recursos Humanos
 
 Este repositório apresenta um dashboard interativo desenvolvido em **Power BI** para análise de indicadores da área de Recursos Humanos.  
@@ -35,16 +30,9 @@ https://sl1nk.com/dashboard-rh-brunoanalytics
 
 ## 🖼️ Prévia do Dashboard
 
-![Prévia do Dashboard](https://i.ibb.co/SDdm47k3/dashboard.png)
-
----
-
-## 🖼️ Screenshots Adicionais
-
-> Caso você queira adicionar mais imagens, basta substituir os links abaixo.
-
-### 📌 Página 1 – Visão Geral  
-![Screenshot 1](https://i.ibb.co/SDdm47k3/dashboard.png)
+<p align="center">
+  <img src="https://i.postimg.cc/N0KZq0n7/print-dashboard-rh.png" alt="Banner do Projeto" style="max-width:100%; height:250px; object-fit:cover; border-radius:8px;">
+</p>
 
 ## 📄 Fonte dos Dados
 
