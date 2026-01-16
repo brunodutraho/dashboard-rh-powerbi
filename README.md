@@ -36,9 +36,4 @@ https://sl1nk.com/dashboard-rh-brunoanalytics
 
 ---
 
-## 🏷️ Badges
-
-<p align="left">
-
-<!-- Power BI -->
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://drive.google.com/file/d/1Gr4EvojneXx0lGzyWTmgO4bWuAmmlqk2/view?usp=drivesdk"/>
