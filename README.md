@@ -35,5 +35,9 @@ Este projeto simula um cen√°rio real de RH corporativo e faz parte do meu portf√
 https://sl1nk.com/dashboard-rh-brunoanalytics
 
 ---
+<p align="center">
+  <img src="https://drive.google.com/file/d/1Gr4EvojneXx0lGzyWTmgO4bWuAmmlqk2/view?usp=drivesdk" alt="Banner do Projeto" style="max-width:100%; height:250px; object-fit:cover; border-radius:8px;">
+</p>
+
 
 https://drive.google.com/file/d/1Gr4EvojneXx0lGzyWTmgO4bWuAmmlqk2/view?usp=drivesdk
