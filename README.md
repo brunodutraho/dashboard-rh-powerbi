@@ -36,4 +36,4 @@ https://sl1nk.com/dashboard-rh-brunoanalytics
 
 ---
 
-<img src="https://drive.google.com/file/d/1Gr4EvojneXx0lGzyWTmgO4bWuAmmlqk2/view?usp=drivesdk"/>
+https://drive.google.com/file/d/1Gr4EvojneXx0lGzyWTmgO4bWuAmmlqk2/view?usp=drivesdk
