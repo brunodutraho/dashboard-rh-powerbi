@@ -1,7 +1,35 @@
-# 📊 Dashboard RH – Análise de Indicadores de Recursos Humanos
+# Dashboard de RH – People Analytics (Power BI)
 
-Este repositório apresenta um dashboard interativo desenvolvido em **Power BI** para análise de indicadores da área de Recursos Humanos.  
-O objetivo é fornecer uma visão clara e objetiva sobre colaboradores, movimentações e distribuição interna, facilitando tomadas de decisão e acompanhamento de métricas essenciais.
+Este projeto consiste em um dashboard de **People Analytics desenvolvido em Power BI**, com foco na análise de indicadores estratégicos de Recursos Humanos.
+
+O objetivo é transformar dados de RH em informações acionáveis para apoiar decisões gerenciais.
+
+## 🎯 Objetivo do Projeto
+Analisar indicadores como:
+- Headcount
+- Turnover
+- Absenteísmo
+- Tempo médio de casa
+- Distribuição por área, cargo e diversidade
+
+## 🛠️ Ferramentas Utilizadas
+- Power BI
+- Modelagem Dimensional
+- DAX
+- Excel / CSV como fonte de dados
+
+## 📊 Principais Análises
+- Evolução do quadro de colaboradores
+- Identificação de áreas com maior rotatividade
+- Indicadores de estabilidade e retenção
+- Visão analítica para apoio à gestão de pessoas
+
+## 📌 Aprendizados
+- Estruturação de modelo fato-dimensão
+- Criação de medidas DAX para indicadores de RH
+- Storytelling com dados focado em tomada de decisão
+
+Este projeto simula um cenário real de RH corporativo e faz parte do meu portfólio como Analista de Dados.
 
 🔗 **Acesse o dashboard publicado:**  
 https://sl1nk.com/dashboard-rh-brunoanalytics
@@ -14,70 +42,3 @@ https://sl1nk.com/dashboard-rh-brunoanalytics
 
 <!-- Power BI -->
 <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<!-- Excel -->
-<img src="https://img.shields.io/badge/Excel-Data%20Source-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<!-- SQL -->
-<img src="https://img.shields.io/badge/SQL-Data%20Querying-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<!-- GitHub Stats -->
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
----
-
-## 🖼️ Prévia do Dashboard
-
-<p align="center">
-  <img src="https://i.postimg.cc/N0KZq0n7/print-dashboard-rh.png" alt="Banner do Projeto" style="max-width:100%; height:250px; object-fit:cover; border-radius:8px;">
-</p>
-
-## 📄 Fonte dos Dados
-
-O dashboard consome dados a partir de uma **planilha Excel**, contendo:
-
-- Cadastro de colaboradores  
-- Histórico de admissões  
-- Histórico de desligamentos  
-- Departamentos e áreas internas  
-
-Os dados passam por tratamento no **Power Query**, garantindo limpeza, padronização e consistência antes da modelagem.
-
----
-
-## 📈 Sobre o Dashboard
-
-O dashboard foi construído com foco em:
-
-- ✅ Indicadores essenciais de Recursos Humanos  
-- ✅ Visualização clara e intuitiva  
-- ✅ Navegação simples e objetiva  
-- ✅ Atualização automática via Power BI Service  
-- ✅ Publicação pública para fins de portfólio
-
-### **Principais métricas apresentadas**
-
-- Total de colaboradores  
-- Admissões e desligamentos  
-- Distribuição por departamento  
-- Comparativos e tendências  
-- Indicadores visuais de performance  
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Power BI Desktop**  
-- **Power BI Service (Publish to Web)**  
-- **Power Query (M)**  
-- **DAX**  
-- **Excel (como fonte de dados)**  
-
----
-
-## 📬 Contato
-
-🔗 **GitHub:** https://github.com/brunodutraho  
-🔗 **LinkedIn:** https://www.linkedin.com/in/brunodutraho/
